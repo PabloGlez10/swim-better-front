@@ -10,9 +10,6 @@
             <p class="mb-4 mb-md-5">
               {{desc}}
             </p>
-            <p v-if="btnInfo">
-              <a href="btnInfo.url" class="button is-warning">{{btnInfo.title}}</a>
-            </p>
           </div>
         </div>
       </div>
