@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <main-nav />
-    <nuxt />
-    <main-footer />
+  <div id="app">
+    <mainNav  />
+    <router-view />
+    <mainFooter />
   </div>
 </template>
 

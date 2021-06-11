@@ -47,7 +47,7 @@
 
 <script>
 export default {
-  name: "MainNav",
+  name: "mainNav",
   props: {
     items: Array
   },

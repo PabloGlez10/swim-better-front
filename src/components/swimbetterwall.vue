@@ -14,7 +14,7 @@
     <div class="container-wrap">
       <div class="columns is-gapless is-flex is-multiline">
         <LevelItem 
-          v-for="item in featuredItems"
+          v-for="item in featuredLevels"
           :value="item"
           :key="item._id"
           /> 
@@ -24,11 +24,22 @@
 </template>
 
 <script>
+import levelItem from "@/components/partials/levelItem"
+
 export default {
-  name: "SwimBetterWall",
+  name: "swimbetterwall",
   components: {
-    LevelItem,
-    MenuItem,
+    levelItem,
+  },
+  data() {
+    return {
+      levels: [],
+    }
+  },
+  computed: {
+    featuredLevels() {
+      return this.levels.filter((item) => item.featured);
+    }
   },
 }
 </script>
