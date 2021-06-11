@@ -49,6 +49,8 @@
 /*** uncss> filename: css/open-iconic-bootstrap.min.css ***/
 @font-face{font-family:Icons;src:url(../fonts/open-iconic/open-iconic.eot);src:url(../fonts/open-iconic/open-iconic.eot?#iconic-sm) format('embedded-opentype'),url(../fonts/open-iconic/open-iconic.woff) format('woff'),url(../fonts/open-iconic/open-iconic.ttf) format('truetype'),url(../fonts/open-iconic/open-iconic.otf) format('opentype'),url(../fonts/open-iconic/open-iconic.svg#iconic-sm) format('svg');font-weight:400;font-style:normal}
 
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css";
+
 /*** uncss> filename: css/ionicons.min.css ***/
 /*!
   Ionicons, v4.0.0-19

@@ -10,7 +10,7 @@ Vue.use(SwimBAPI, {baseURL: ''})
 Vue.config.productionTip = false
 
 new Vue({
-  reouter,
+  router,
   store,
   render: h => h(App)
 }).$mount('#app')
