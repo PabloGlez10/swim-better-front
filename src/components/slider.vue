@@ -1,10 +1,10 @@
 <template>
   <section :class="{'home-slider' : isBig }" class="slider">
-    <div class="style-item" style="background-image: url();">
+    <div class="style-item" style="background-image: url(images/SliderBackground.jpg);">
       <div class="overlay"></div>
       <div class="container">
-        <div class="columns slider-text is-justify-content-center is-align-items-center" data-scrollax-parent="true">
-          <div class="column has-text-centered">
+        <div class="row slider-text justify-content-center" data-scrollax-parent="true">
+          <div class="has-text-centered">
             <span class="subheading">{{preTitle}}</span>
             <h1>{{title}}</h1>
             <p class="mb-4 mb-md-5">

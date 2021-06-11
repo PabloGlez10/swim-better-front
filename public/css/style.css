@@ -176,8 +176,8 @@ body {
     line-height: 1.8;
     font-weight: 300;
     color: gray;
-    background: url(../images/bg_4.jpg) no-repeat fixed;
-    background-size: cover;
+    /* background: url(../images/bg_4.jpg) no-repeat fixed; */
+    /* background-size: cover; */
 }
 
 span {
@@ -225,7 +225,7 @@ h1, h2, h3, h4, .h4 {
 
 .slider.home-slider {
     position: relative;
-    height: calc(100vh - 80px);
+    height: calc(100vh - 120px);
     z-index: 0;
 }
 
@@ -266,6 +266,10 @@ h1, h2, h3, h4, .h4 {
     font-family: "Nothing You Could Do", cursive;
     font-size: 30px;
     color: #fac564;
+}
+
+.style-item {
+    height: 100%;
 }
 
 .slider .slider-item .slider-text h1 {
@@ -1207,4 +1211,12 @@ a.navbar-item:hover, a.navbar-item.selected {
 }
 .table thead th {
     color: white;
+}
+
+.white {
+    color: white;
+}
+
+.center {
+    justify-items: center;
 }

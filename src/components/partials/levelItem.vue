@@ -1,7 +1,7 @@
 <template>
   <div class="column is-6 has.text-centered">
     <div class="menu-wrap">
-      <a class="menu-img img mb-4" href="#" :style="`background-image: url()`"></a>
+      <a class="menu-img img mb-4" href="#" :style="`background-image: url(${value.image})`"></a>
       <div class="text">
         <h3><a href="#">{{value.title}}</a></h3>
         <p>
@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: "LevelItem",
+  name: "levelItem",
   props: {
     value: Object
   }

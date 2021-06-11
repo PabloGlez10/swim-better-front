@@ -2,9 +2,9 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 
 import Home from '../views/Home'
-//import Exercises from '../views/exercises.vue'
-//import Login from '../views/login.vue'
-//import Register from '../views/register.vue'
+import Exercises from '../views/exercises'
+import Login from '../views/login'
+import Register from '../views/register'
 
 Vue.use(VueRouter)
 
@@ -15,7 +15,7 @@ export const routes = [
     component: Home,
     meta: {hideInMenu: false}
   },
- /*  {
+ {
     path: '/exercises',
     name: 'Ejercicios',
     component: Exercises,
@@ -23,16 +23,16 @@ export const routes = [
   },
   {
     path: '/login',
-    name: 'Login',
+    name: 'login',
     component: Login,
     meta: {hideInMenu: false}
   },
   {
     path: '/register',
-    name: 'Register',
+    name: 'register',
     component: Register,
     meta: {hideInMenu: false}
-  } */
+  }
 ]
 
 const router = new VueRouter({
