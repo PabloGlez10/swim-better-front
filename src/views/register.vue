@@ -26,6 +26,13 @@
 </div>
 
 <div class="field">
+  <label class="label white">Apellidos</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Apellidos">
+  </div>
+</div>
+
+<div class="field">
   <label class="label white">Nombre de usuario</label>
   <div class="control has-icons-left">
     <input class="input" type="text" placeholder="Nombre de usuario" value="">
@@ -101,7 +108,7 @@
 
 <div class="field is-grouped">
   <div class="control">
-    <button class="button is-link nb-primary-color">Crear usuario</button>
+    <button class="button is-link nb-primary-color" @click= "signUp">Crear usuario</button>
   </div>
 </div>
 </div>
@@ -119,15 +126,32 @@ export default {
     };
   },
   methods: {
-    async signUp(){
+    signUp(){
       try {
         const credentials = {
-          userName: this.userName,
-          email: this.email,
-          password: this.password,
+          firstName: "Pablo",
+          lastName: "Gonzalez",
+          userName: "Kbesa",
+          email: "pggambero@gmail.com",
+          password: "123456",
         }
-        const response = await this.$api.auth.signUp(this.userName, this.email, this.password)
+        console.log(credentials)
+        const requestOptions = {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(credentials)
+        
+        }
+        // const requestOptions = {
+        // method: 'GET',
+        // headers: { 'Content-Type': 'application/json' },
+        // return fetch("AQUI VA LA URL QUE QUEREMOS LLAMAR", requestOptions);
+        
+        // }
+
+        return fetch("http://localhost:5005/users", requestOptions);
       } catch (error) {
+        console.log(error)
         alert("El nombre de usuario y/o el email ya estan cogidos")
       }
     },

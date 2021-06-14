@@ -22,7 +22,7 @@
 </div>
 <div class="field is-justify-content-center has-text-centered">
   <p class="control">
-    <button class="button nb-primary-color">
+    <button class="button nb-primary-color" @click="login">
       <p class="light">Login</p>
     </button>
   </p>
@@ -46,13 +46,24 @@ export default {
           email: this.email,
           password: this.password,
         }
-        const response = await this.$api.auth.login(this.email, this.password)
-        this.$router.push("/")
+        console.log(credentials)
+        const requestOptions = {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(credentials)
+        }
+        return fetch("http://localhost:8081/auth/login", requestOptions).then(this.endLogin());
+        
         
       } catch (error) {
         alert("Usuario y/o contraseña incorrectos")
       }
     },
-  },
+    // endLogin(){
+    //   console.log("El login ha finalizado.")
+    //   this.$router.push("/")
+    // }
+  }
+
 };
 </script>

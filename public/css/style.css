@@ -1217,6 +1217,24 @@ a.navbar-item:hover, a.navbar-item.selected {
     color: white;
 }
 
+.black {
+    color: black;
+}
+
 .center {
     justify-items: center;
+}
+
+.padding-exercise {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.bcover {
+    background-size: cover;
+}
+
+.photoex {
+    width: 200px;
+    height: 200px;
 }
