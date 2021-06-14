@@ -71,7 +71,7 @@
               <p>
                 Ejercicios pensados para chicos entre 3 y 5 años. Ideales para aprender a nadar.
               </p>
-              <button class="button nb-primary-color" @click="exercise1">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise1">Ir alli</button> -->
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@
               <p>
                 Ejercicios pensados para chicos entre 5 a 10 años. Ideales para aprender los diferentes estilos de natación y mejorar en el nado basico.
               </p>
-              <button class="button nb-primary-color" @click="exercise2">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise2">Ir alli</button> -->
           </div>
         </div>
       </div>
@@ -99,7 +99,7 @@
               <p>
                 Ejercicios pensados para chicos entre 11 y 16 años. Ideales para aquellos que no quieran dejar de nadar o que quieran iniciarse en competición.
               </p>
-              <button class="button nb-primary-color" @click="exercise3">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise3">Ir alli</button> -->
           </div>
         </div>
       </div>
@@ -113,7 +113,7 @@
               <p>
                 Ejercicios pensados para Adultos. Ideales para aquellos que no quieran seguir nadando y mantenerse en forma.
               </p>
-              <button class="button nb-primary-color" @click="exercise4">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise4">Ir alli</button> -->
           </div>
         </div>
       </div>
@@ -127,7 +127,7 @@
               <p>
                 Ejercicios pensados para todas las edades. Pensados para aquellas personas con problemas de espalda.
               </p>
-              <button class="button nb-primary-color" @click="exercise5">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise5">Ir alli</button> -->
           </div>
         </div>
       </div>
@@ -141,7 +141,7 @@
               <p>
                 Ejercicios pensados para todas las edades. Pensados para aquellas personas que quieren competir o han competido y quieren seguir nadando.
               </p>
-              <button class="button nb-primary-color" @click="exercise6">Ir alli</button>
+              <!-- <button class="button nb-primary-color" @click="exercise6">Ir alli</button> -->
           </div>
         </div>
       </div>
