@@ -199,7 +199,6 @@ a:hover, a:active, a:focus {
 
 h1, h2, h3, h4, .h4 {
     line-height: 1.4;
-    color: #fff;
     font-weight: 400;
     font-family: "Josefin Sans", Arial, sans-serif;
 }
@@ -418,7 +417,6 @@ h1, h2, h3, h4, .h4 {
 .services h3 {
     font-size: 18px;
     margin-bottom: 20px;
-    color: black;
     text-transform: uppercase;
 }
 
@@ -1226,7 +1224,7 @@ a.navbar-item:hover, a.navbar-item.selected {
 }
 
 .padding-exercise {
-    padding-bottom: 25px;
+    padding-bottom: 28px;
 }
 
 .bcover {
@@ -1241,4 +1239,16 @@ a.navbar-item:hover, a.navbar-item.selected {
 .level {
     width: 20px;
     height: 20px;
+}
+
+.yellow {
+    color: #ffdd57;
+}
+
+.orange {
+    color: #ffbc6b;
+}
+
+.red{
+    color: hsl(348, 86%, 61%);
 }
