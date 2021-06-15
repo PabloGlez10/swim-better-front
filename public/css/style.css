@@ -1226,8 +1226,7 @@ a.navbar-item:hover, a.navbar-item.selected {
 }
 
 .padding-exercise {
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-bottom: 25px;
 }
 
 .bcover {

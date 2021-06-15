@@ -49,13 +49,13 @@
           <div class="column is-4">
             <div class="media is-block has-text-centered block-6 services">
               <div class="icon is-flex is-justify-content-center is-align-items-center mb-5">
-                <span class="flaticon-pizza-1"></span>
-                <div class="media-body">
-                  <h3 class="heading">Calendario</h3>
-                  <p>
-                    ¡Registrate y accede a nuestro calendario mensual donde habra entrenos para cada dia!
-                    </p>
-                </div>
+                <span class="flaticon-bicycle"></span>
+              </div>
+              <div class="media-body">
+                <h3 class="heading">Calendario</h3>
+                <p>
+                  ¡Registrate y accede a nuestro calendario!
+                </p>
               </div>
             </div>
           </div>
