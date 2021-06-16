@@ -5,8 +5,8 @@
       <div class="navbar-brand">
         <a href="http://localhost:8080/" class="navbar-item">
           <div>
-            <span class="flaticon-swim-better"></span>Swim
-            <small>Better</small>
+            <span><i class="fas fa-swimmer"></i></span>Swim
+            <small class="red">Better</small>
           </div>
         </a>
         <a aria-expanded="false" aria-label="menu" class="navbar-burger" data-target="navbarBasicExample" role="button">
@@ -28,10 +28,10 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-warning is-outlined" href="http://localhost:8080/exercises">Ejercicios</a>
-            <a class="button is-warning is-outlined" href="http://localhost:8080/">Randomizador</a>
-            <a class="button is-warning is-outlined" href="http://localhost:8080/">Calendario</a>
-            <a v-if="!isAuth" class="button is-warning is-outlined" href="/register">
+            <a class="button is-danger is-outlined" href="http://localhost:8080/exercises">Ejercicios</a>
+            <a class="button is-danger is-outlined" href="http://localhost:8080/">Randomizador</a>
+            <a class="button is-danger is-outlined" href="http://localhost:8080/">Calendario</a>
+            <a v-if="!isAuth" class="button is-danger is-outlined" href="/register">
               <strong>Crear Cuenta</strong>
             </a>
             <router-link v-if="!isAuth" class="button is-light is-outlined" to="/login">

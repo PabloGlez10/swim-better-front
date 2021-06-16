@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="title pink has-text-centered white">Accede a SWIM BETTER</h1>
+    <h1 class="title has-text-centered has-text-white">Accede a SWIM BETTER</h1>
     <div class="field">
   <p class="control has-icons-left has-icons-right">
     <input class="input" v-model="email" type="email" placeholder="Email">

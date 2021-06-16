@@ -3,10 +3,10 @@
     <div class="container">
       <div class=" is-justify-content-center mb-5 pb-3">
         <div class=" is-7 heading-section has-text-centered">
-          <h2 class="mb-4">¡Tenemos diferentes Niveles!</h2>
+          <h2 class="mb-4 white">¡Bienvenido a Swim Better!</h2>
           <p class="white">
             Selecciona tu edad y dentro encontraras los ejercicios para dichas edades los cuales estan catalogados por un sistema de colores el cual determinara su dificultad.
-            El color blanco es el nivel mas bajo y rojo el mas alto. Para competicion tenemos el nivel negro.
+            El color blanco es el nivel mas bajo y rojo el mas alto. Para competicion habra ejercicios sin explicacion.
           </p>
         </div>
       </div>

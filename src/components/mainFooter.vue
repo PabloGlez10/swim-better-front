@@ -5,7 +5,7 @@
       <div class="columns mb-3">
         <div class="column is-3 mb-5 mb-md-5">
           <div class="swim-better-footer-widget mb-4">
-            <h2 class="swim-better-heading-2">Sobre mi</h2>
+            <h2 class="swim-better-heading-2 white">Sobre mi</h2>
             <p class="white">
               Entrenador de natación que estudió programación y decidió usar ese conocimiento para ayudar a los que sabian menos de natación.
             </p>
@@ -26,7 +26,7 @@
 
         <div class="column is-2 mb-5 mb-md-5">
           <div class="swim-better-footer-widget mb-4 ml-md-4">
-            <h2 class="swim-better-heading-2">Servicios</h2>
+            <h2 class="swim-better-heading-2 white">Servicios</h2>
             <ul class="list-unstyled">
               <li><a href="http://localhost:8080/" class="py-2 is-block">Home</a></li>
               <li><a href="http://localhost:8080/exercises" class="py-2 is-block">Ejercicios</a></li>

@@ -218,7 +218,6 @@ h1, h2, h3, h4, .h4 {
     font-size: 11px;
     display: block;
     text-align: center;
-    color: #fac564;
     letter-spacing: 4px;
 }
 
@@ -615,7 +614,7 @@ textarea.form-control {
 .swimBetter-footer .swimBetter-footer-widget h2 {
     font-weight: normal;
     color: #fff;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
     font-size: 16px;
     font-weight: 400;
     position: relative;
@@ -1252,3 +1251,4 @@ a.navbar-item:hover, a.navbar-item.selected {
 .red{
     color: hsl(348, 86%, 61%);
 }
+

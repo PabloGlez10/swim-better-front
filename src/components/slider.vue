@@ -5,11 +5,11 @@
       <div class="container">
         <div class="row slider-text justify-content-center" data-scrollax-parent="true">
           <div class="has-text-centered">
-            <span class="subheading">{{preTitle}}</span>
+            <!-- <span class="subheading">{{preTitle}}</span>
             <h1>{{title}}</h1>
             <p class="mb-4 mb-md-5">
               {{desc}}
-            </p>
+            </p> -->
           </div>
         </div>
       </div>

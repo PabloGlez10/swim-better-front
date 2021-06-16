@@ -3,8 +3,8 @@
 
 <div class = "container">
 
-  <h1 class = "title is-1 pink is-flex is-justify-content-center white">Únete a Swim Better</h1>
-  <h2 class = "title is-2 pink is-flex is-justify-content-center white">Y accede a varias sorpresas</h2>
+  <h1 class = "title is-1 pink is-flex is-justify-content-center has-text-white">Únete a Swim Better</h1>
+  <h2 class = "title is-2 pink is-flex is-justify-content-center has-text-white">Y accede a varias sorpresas</h2>
 
   <div class="container">
   <div class="notification justify-content is-align-items-center bg-pink">
@@ -16,24 +16,24 @@
   </div>
 </div>
 
-<h3 class="title is-3 pink is-flex is-justify-content-center white">Regístrate en SWIM BETTER</h3>
+<h3 class="title is-3 pink is-flex is-justify-content-center has-text-white">Regístrate en SWIM BETTER</h3>
 
 <div class="field">
-  <label class="label white">Nombre</label>
+  <label class="label has-text-white">Nombre</label>
   <div class="control">
     <input class="input" type="text" placeholder="Nombre">
   </div>
 </div>
 
 <div class="field">
-  <label class="label white">Apellidos</label>
+  <label class="label has-text-white">Apellidos</label>
   <div class="control">
     <input class="input" type="text" placeholder="Apellidos">
   </div>
 </div>
 
 <div class="field">
-  <label class="label white">Nombre de usuario</label>
+  <label class="label has-text-white">Nombre de usuario</label>
   <div class="control has-icons-left">
     <input class="input" type="text" placeholder="Nombre de usuario" value="">
     <span class="icon is-small is-left">
@@ -43,7 +43,7 @@
 </div>
 
 <div class="field">
-  <label class="label white">Email</label>
+  <label class="label has-text-white">Email</label>
   <div class="control has-icons-left">
     <input class="input" type="email" placeholder="Correo electrónico" value="">
     <span class="icon is-small is-left">
@@ -53,7 +53,7 @@
 </div>
 
 <div class="field">
-  <label class="label white">Contraseña</label>
+  <label class="label has-text-white">Contraseña</label>
   <p class="control has-icons-left">
     <input class="input" type="password" placeholder="Contraseña">
     <span class="icon is-small is-left">
@@ -65,10 +65,10 @@
   </p>
 </div>
 
-<h6 class = "subtitle is-7 white">Al menos ocho caracteres, incluyendo mayúsculas, minúsculas y números</h6>
+<h6 class = "subtitle is-7 has-text-white">Al menos ocho caracteres, incluyendo mayúsculas, minúsculas y números</h6>
 
 <div class="field">
-  <label class="label white">Confirmación de contraseña</label>
+  <label class="label has-text-white">Confirmación de contraseña</label>
   <p class="control has-icons-left">
     <input class="input" type="password" placeholder="Confirmación de la contraseña">
     <span class="icon is-small is-left">
