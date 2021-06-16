@@ -1223,7 +1223,7 @@ a.navbar-item:hover, a.navbar-item.selected {
 }
 
 .padding-exercise {
-    padding-bottom: 28px;
+    padding-bottom: 32px;
 }
 
 .bcover {
@@ -1252,3 +1252,6 @@ a.navbar-item:hover, a.navbar-item.selected {
     color: hsl(348, 86%, 61%);
 }
 
+.purple {
+    color: #7957d5;
+}

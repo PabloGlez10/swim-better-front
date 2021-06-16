@@ -9,46 +9,46 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernasdecrolenpared.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/respiracionlateralcrol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crolenpared.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crolenpared.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 5 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernascrol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 6 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/brazoscrol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 7 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/nadosinmaterial.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 8 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 9 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/inicioespalda.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">
                       <!-- Ejercicio 1 -->
                       <div class="white padding-exercise">
                       <h3 class="has-text-white">
-                        Piernas de crol
+                        Piernas de crol en pared
                       </h3>
                       <h5 class="subtitle has-text-white">Nivel: Blanco</h5>
                       <p>
@@ -235,46 +235,46 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernascrol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/croltabla.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernasespalda.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/espaldatabla.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 5 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crolrozando.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 6 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernasbraza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 7 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/brazosbraza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 8 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 9 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/espalda.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">
                       <!-- Ejercicio 1 -->
                       <div class="white padding-exercise">
                       <h3 class="has-text-white">
-                        Inicio piernas de crol en la pared
+                        Piernas de crol
                       </h3>
                       <h5 class="subtitle has-text-white">Nivel: Blanco</h5>
                       <p>
@@ -460,39 +460,39 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/espalda.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/braza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 5 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernasmariposa.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 6 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 7 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/mariposatabla.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 8 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/mariposa.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 9 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/brazosbraza.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">
@@ -685,19 +685,19 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/piernascrol.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/espalda.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">
@@ -789,19 +789,19 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/churrobraza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/churrobraza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/churrotabla.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/croltubo.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">
@@ -893,19 +893,19 @@
                   <div class="column is-4">
                     <!-- imagen 1 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/mariposa.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 2 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/espalda.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 3 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/braza.jpg" class="has-ratio">
                     </figure>
                     <!-- imagen 4 -->
                     <figure class="image is-256x256">
-                      <img src="../../public/images/level1.jpg" class="has-ratio">
+                      <img src="../../public/images/crol.jpg" class="has-ratio">
                     </figure>
                   </div>
                     <div class="column is-8">

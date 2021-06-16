@@ -24,8 +24,8 @@
           </div>
         </div>
 
-        <div class="column is-2 mb-5 mb-md-5">
-          <div class="swim-better-footer-widget mb-4 ml-md-4">
+        <div class="column is-2 mb-5 mb-md-5 ">
+          <div class="swim-better-footer-widget mb-4 ml-md-4 is-pulled-right">
             <h2 class="swim-better-heading-2 white">Servicios</h2>
             <ul class="list-unstyled">
               <li><a href="http://localhost:8080/" class="py-2 is-block">Home</a></li>
